@@ -1,5 +1,6 @@
 create node folder
 run npm init
+add node modules folder since i didnt add in my repository.
 install express,body-parser,mongoose
 create database file in models folder
 create apis in server.js file
