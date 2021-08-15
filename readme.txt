@@ -16,7 +16,7 @@ to update......localhost:5001/api/update?id=6117586842b0e5199befe3bc
 
 
 
-mongodb commands
+*MongoDB commands:*
 use lab
 db.createCollection("product")
 db.createCollection("category")
